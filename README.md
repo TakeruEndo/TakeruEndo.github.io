@@ -1,4 +1,4 @@
-# my-portfolio
+# profile
 
 ## Project setup
 ```
@@ -15,25 +15,10 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
+### deploy
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run deploy
 ```
 
-### Firebase
-```
-firebase login
-firebase list
-firebase deploy --project <project>
-```
-
-### URL
-
-https://takeru-e153b.firebaseapp.com/
 
 
