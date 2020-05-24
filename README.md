@@ -15,10 +15,16 @@ npm run serve
 npm run build
 ```
 
-### deploy
+## 更新手順
+
+### dev内で変更後、：gh-pagesブランチにdistフォルダをpush
 ```
+npm run build
 npm run deploy
 ```
+
+### gh-pagesブランチをmasterにマージする
+
 
 
 
