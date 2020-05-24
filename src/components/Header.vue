@@ -3,10 +3,7 @@
     <nav class="">
       <ul>
         <li id="home"><a href="#home">Home</a></li>
-        <li><a href="#profile">Profile</a></li>
-        <li><a href="#article">Article</a></li>
-        <li><a href="#skill">Skill</a></li>
-        <li><a href="#work">Work</a></li>
+        <li><a href="/paper-survey">TechBlog</a></li>
       </ul>
     </nav>
   </header>
